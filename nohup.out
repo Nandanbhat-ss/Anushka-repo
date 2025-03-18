@@ -1,0 +1,23 @@
+Last metadata expiration check: 0:03:41 ago on Tue Mar 18 17:45:53 2025.
+Dependencies resolved.
+================================================================================
+ Package             Arch      Version                     Repository      Size
+================================================================================
+Installing:
+ git                 x86_64    2.47.1-1.amzn2023.0.2       amazonlinux     54 k
+Installing dependencies:
+ git-core            x86_64    2.47.1-1.amzn2023.0.2       amazonlinux    4.7 M
+ git-core-doc        noarch    2.47.1-1.amzn2023.0.2       amazonlinux    2.8 M
+ perl-Error          noarch    1:0.17029-5.amzn2023.0.2    amazonlinux     41 k
+ perl-File-Find      noarch    1.37-477.amzn2023.0.6       amazonlinux     26 k
+ perl-Git            noarch    2.47.1-1.amzn2023.0.2       amazonlinux     42 k
+ perl-TermReadKey    x86_64    2.38-9.amzn2023.0.2         amazonlinux     36 k
+ perl-lib            x86_64    0.65-477.amzn2023.0.6       amazonlinux     15 k
+
+Transaction Summary
+================================================================================
+Install  8 Packages
+
+Total download size: 7.7 M
+Installed size: 37 M
+Is this ok [y/N]: [Errno 9] Bad file descriptor
